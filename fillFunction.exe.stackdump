@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6E99A0C9
+eax=0000000A ebx=0061CA7C ecx=00000000 edx=00000004 esi=FFFFFFFF edi=0061CC0C
+ebp=0061CC28 esp=0061CA40 program=D:\c++ projects\fillFunction.exe, pid 22992, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0061CC28  6E99A0C9 (00000001, 0061CC4C, 200280E8, 61007D35)
+0061CD08  61007D9A (00000000, 0061CD64, 61006DC0, 00000000)
+End of stack trace
